@@ -14,6 +14,3 @@ async function connectToMongoose() {
 
 module.exports =connectToMongoose;
 
-//ramkumaravs01
-//SijuGhTUQTGfwZ1L
-//mongodb+srv://ramkumaravs01:<password>@cluster0.qugzcs4.mongodb.net/?retryWrites=true&w=majority
